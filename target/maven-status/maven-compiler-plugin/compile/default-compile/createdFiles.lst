@@ -1,0 +1,6 @@
+com/process/patch/ApplicationAuth$MyRunner.class
+com/process/patch/DriverForm.class
+com/process/patch/service/DriverService.class
+com/process/patch/service/DriverServiceImpl.class
+com/process/patch/MicrosoftUpdateCatalogXpath.class
+com/process/patch/ApplicationAuth.class
